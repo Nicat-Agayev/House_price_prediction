@@ -7,7 +7,7 @@ A regression project that predicts house prices from features such as area, numb
 GitHub may not render the notebook preview properly because it contains several visualizations.  
 For the full rendered notebook with plots, use nbviewer:
 
-[View Notebook on nbviewer]
+[View Notebook on nbviewer](https://nbviewer.org/github/Nicat-Agayev/House_Price_prediction/blob/main/notebooks/house_price_prediction.ipynb)
 
 The dataset is small but non-trivial: the features have **strong multicollinearity** and the target (price) is **right-skewed**. The project handles both and compares four regression models.
 
